@@ -1,4 +1,4 @@
-# Maven Pizza SQL EDA and Tableau Summary Dashboard
+# Maven Pizzeria End of Year Analysis
 
 A tableau summary dashboard using Maven analytics fictitious pizzeria sales data.
 
@@ -8,12 +8,14 @@ A tableau summary dashboard using Maven analytics fictitious pizzeria sales data
 
 **Database Tool:** pgAdmin4, Excel
 
-**Visualization Tool:** Tableau
+**Visualization Tool:** Tableau, pgAdmin 4
 
 
 ## Description
 
-A year's worth of sales from a fictitious pizza place, including the date and time of each order and the pizzas served, with additional details on the type, size, quantity, price, and ingredients.
+Analysis of a year's worth of sales from a Maven Pizzeria, including the date and time 
+of each order and the pizzas served, with additional details on the type, size, 
+quantity, price, and ingredients. Requested analysis being:
 
 ## Analysis
 How many customers do we have each day? Are there any peak hours?
