@@ -232,14 +232,13 @@ ORDER BY month;
 ```
 
 ## Dashboard Screenshot
-(This dashboard needs to be updated with new data used)
-[![summary-screenshot.png](https://i.postimg.cc/PxJQ3cSw/summary-screenshot.png)](https://postimg.cc/jwVfC80x)
+
+[![Dashboard-1-2.png](https://i.postimg.cc/qMkjRSW9/Dashboard-1-2.png)](https://postimg.cc/0rBpXWkf)
 
 
 
 ## Live Dashboard Link
-(This link needs to be updated with new data used)
-https://public.tableau.com/app/profile/matthew.a.phelps/viz/MavenPizzaSummary/Dashboard1
+[(https://public.tableau.com/views/MavenPizzaSummary/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)]
 
 
 
